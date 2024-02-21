@@ -1,0 +1,27 @@
+{
+  "name": "vendadeingressosonline",
+  "version": "1.0.0",
+  "description": "Projeto de site da disciplina Programação para a Internet",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kevinJ204/VendaDeIngressosOnline.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "javascript",
+    "programacao"
+  ],
+  "author": "Kevin O.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinJ204/VendaDeIngressosOnline/issues"
+  },
+  "homepage": "https://github.com/kevinJ204/VendaDeIngressosOnline#readme"
+}
