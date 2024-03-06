@@ -1,0 +1,28 @@
+.container {
+    background-color: blueviolet;
+}
+.card {
+    margin-right: 50pt;
+    margin-bottom: 5px;
+}
+.card-body {
+    background-color: brown;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.row {
+    padding-left: 50pt;
+    padding-top: 5px;
+}
+h1 {
+    color: black;
+}
+h2 {
+    color: chartreuse;
+}
+h4 {
+    color: azure;
+}
+p {
+    color: black;
+}
